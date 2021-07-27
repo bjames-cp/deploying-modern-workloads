@@ -1,6 +1,6 @@
 locals {
   tags = {
-    owner   = "YOURNAMEHERE"
+    owner   = "BJames"
     project = "Deploying Modern Workloads"
   }
 
